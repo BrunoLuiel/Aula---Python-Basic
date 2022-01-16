@@ -1,0 +1,19 @@
+Primeira linha.
+segunda linha
+terceira linha
+Rafael,10,5,5,10
+
+terceira linha
+ terceira linhaLucas,10,7,5,8 
+
+ terceira linha
+ terceira linha
+ terceira linha
+ terceira linha
+ terceira linha
+faza
+ textando
+ textando
+ textando
+ maisumLucas,10,7,5,8 
+Lucas,10,7,5,8 
